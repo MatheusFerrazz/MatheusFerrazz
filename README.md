@@ -15,8 +15,8 @@
 
 - 🔐 Atuo como **Analista DevSecOps**, integrando segurança em todo o ciclo de desenvolvimento.
 - 🎓 **Instrutor** de tecnologia, ajudando profissionais a evoluírem na área.
-- 📹 Nas horas vagas, crio **conteúdo sobre TI** no YouTube e Instagram.
-- 🚀 Sempre explorando novas ferramentas de **automação, cloud e segurança**.
+- 📹 Nas horas vagas, crio **conteúdo sobre TI** no YouTube e Instagram entre outros.
+- 🚀 Sempre explorando novas ferramentas de **Automação, Cloud e Segurança**.
 
 ---
 
